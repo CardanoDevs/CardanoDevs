@@ -30,7 +30,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-### Work Experience
+
+
+
+<h3> Work Experience </h3>
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1645056000&v=beta&t=0J0Zwtf32kp6uLNdSR0fIN-YCSLVg9PI_LEW_bJCjkk"/>](https://www.kpn.com/)
@@ -58,6 +61,8 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
+
+
 
 <h3>Open source projects</h3>
 <table>
