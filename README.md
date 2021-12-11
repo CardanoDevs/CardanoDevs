@@ -42,7 +42,6 @@ In the overview below you will find my most recent work experience:
 [**KPN**](https://www.kpn.com/) • Contract \
 Languages & Technologies: `Solidity`, `Rust`, `Smart Contract`,`DAPP`,`NFT minting & marketplace`,`Etheruem`, \
 <br/>
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
 
@@ -59,10 +58,6 @@ Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-sa
 Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
 <br/>
 <br/>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
-
-
 
 <h3>My latest posts</h3>
 <ul>
