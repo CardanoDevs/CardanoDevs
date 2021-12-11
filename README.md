@@ -32,6 +32,12 @@
 </p>
 
 
+<br/>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Cryto-IT&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 
 <h3> Work Experience </h3>
 
