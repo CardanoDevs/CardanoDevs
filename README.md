@@ -48,15 +48,13 @@ Languages & Technologies: `Solidity`, `Rust`, `Smart Contract`,`DAPP`,`NFT minti
 **Frontend developer (SRE)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `React.js`, `Vue.js`, `C++`, `JavaScript`, `GoLang`, `Node.js`, `Web3.js` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1645056000&v=beta&t=FIdiz1Jf44gALWieCgDVEup-pQOk-bbQ7ObgvqiNl4A"/>](https://duo.nl/)
 
 **DevOps Engineer** \
 [**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
-<br/>
+Languages & Technologies: `Python`, `Golang`, `AWS`, `Server Management`, `ShellScript` \
 <br/>
 
 <h3>My latest posts</h3>
