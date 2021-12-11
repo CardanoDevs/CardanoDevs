@@ -47,7 +47,6 @@
 **Lead Blockchain Engineer (SRE)** \
 [**KPN**](https://www.kpn.com/) • Contract \
 Languages & Technologies: `Solidity`, `Rust`, `Smart Contract`,`DAPP`,`NFT minting & marketplace`,`Etheruem`,`Dex`,`Defi` \
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
 
