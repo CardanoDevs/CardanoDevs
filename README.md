@@ -67,8 +67,8 @@ Languages & Technologies: `Python`, `Golang`, `AWS`, `Server Management`, `Shell
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Crypto-IT&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/Crypto-IT/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Crypto-IT/github-stats-transparent/output/generated/languages.svg)
+![Contritute](https://raw.githubusercontent.com/Crypto-IT/github-stats-transparent/output/generated/overview.svg)
+![Language](https://raw.githubusercontent.com/Crypto-IT/github-stats-transparent/output/generated/languages.svg)
 
 
 
